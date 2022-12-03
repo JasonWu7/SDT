@@ -1,0 +1,13 @@
+.Main{
+    display: block;
+    text-align: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Notes{
+    width:24%;
+    color:aliceblue;
+    background-color: rgba(0,0,0,0.5);
+    font-weight: 600;
+}

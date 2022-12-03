@@ -1,0 +1,20 @@
+.Setting{
+    color:aliceblue;
+    position:absolute;
+    top: 0;
+    right: 0;
+}
+.Icon{
+    width:15%;
+    float: right;
+}
+button{
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    color:aliceblue;
+    font-size: large;
+}
