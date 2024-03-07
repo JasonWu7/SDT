@@ -9,10 +9,10 @@ Access the samlldesktop website by clicking the link [here](https://jasonwu7.git
   - Click top-right icon -> change background image
   - Paste address and click on confirm
   - `A large size with high resolution image is recommended`
-- Temporary note
-  - Click top-right icon -> Add notes `or press enter on the main page`
-  - Type texts and click on confirm
-  - `Note is volatile, do not keep important notes here`
+- Quick Search
+  - `Press enter on the main page`
+  - Enter the content and then press enter
+  - Quick Search is based on google
 - Customise shortcut
   - Click top-right icon -> Set Shortcut
   - Enter single key and paste website address then click on confirm
